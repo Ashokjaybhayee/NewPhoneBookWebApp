@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Application {
 
+	private static String REST_URL="https://onlinescore/score";
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 		int a=10;
