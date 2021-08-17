@@ -16,4 +16,9 @@ public void loadData(){
 //Logic
 }
 
+	//logic goes here	
+       public void doProcess(){
+          //logic
+       }
+
 }
